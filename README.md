@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanmotraudayan/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sanmotraudayan/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sanmotraudayan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanmotraudayan/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/sanmotraudayan/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sanmotraudayan/Leetcode/tree/master/0229-majority-element-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanmotraudayan/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -166,9 +168,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanmotraudayan/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sanmotraudayan/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Enumeration
 |  |
 | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanmotraudayan/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sanmotraudayan/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Greedy
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanmotraudayan/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
