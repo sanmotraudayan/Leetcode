@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanmotraudayan/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/sanmotraudayan/Leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanmotraudayan/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sanmotraudayan/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -162,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sanmotraudayan/Leetcode/tree/master/0493-reverse-pairs) |
+## String
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sanmotraudayan/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+## Enumeration
+|  |
+| ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sanmotraudayan/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
