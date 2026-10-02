@@ -15,10 +15,10 @@ public:
         ListNode* temp = head;
 
         while (temp != NULL) {
-            ListNode* front = temp->next;  // save next node
-            temp->next = prev;            // reverse the link
-            prev = temp;                  // move prev forward
-            temp = front;                  // move curr forward
+            ListNode* front = temp->next; 
+            temp->next = prev;       
+            prev = temp;                 
+            temp = front;                 
         }
 
         return prev;
