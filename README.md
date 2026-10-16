@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/sanmotraudayan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sanmotraudayan/Leetcode/tree/master/0704-binary-search) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanmotraudayan/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sanmotraudayan/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sanmotraudayan/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanmotraudayan/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sanmotraudayan/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Greedy
