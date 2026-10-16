@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/sanmotraudayan/Leetcode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/sanmotraudayan/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/sanmotraudayan/Leetcode/tree/master/0189-rotate-array) |
+| [0633-sum-of-square-numbers](https://github.com/sanmotraudayan/Leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanmotraudayan/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/sanmotraudayan/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/sanmotraudayan/Leetcode/tree/master/0283-move-zeroes) |
+| [0633-sum-of-square-numbers](https://github.com/sanmotraudayan/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sanmotraudayan/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanmotraudayan/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/sanmotraudayan/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sanmotraudayan/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0493-reverse-pairs](https://github.com/sanmotraudayan/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sanmotraudayan/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/sanmotraudayan/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/sanmotraudayan/Leetcode/tree/master/0704-binary-search) |
 ## Sorting
 |  |
