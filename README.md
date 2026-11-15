@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/sanmotraudayan/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sanmotraudayan/Leetcode/tree/master/0189-rotate-array) |
 | [0633-sum-of-square-numbers](https://github.com/sanmotraudayan/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanmotraudayan/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/sanmotraudayan/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/sanmotraudayan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sanmotraudayan/Leetcode/tree/master/0704-binary-search) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanmotraudayan/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanmotraudayan/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sanmotraudayan/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Two Pointers
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sanmotraudayan/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanmotraudayan/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sanmotraudayan/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanmotraudayan/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sanmotraudayan/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/sanmotraudayan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanmotraudayan/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 ## Binary Indexed Tree
 |  |
 | ------- |
