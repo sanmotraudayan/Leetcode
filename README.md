@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/sanmotraudayan/Leetcode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanmotraudayan/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/sanmotraudayan/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3731-find-missing-elements](https://github.com/sanmotraudayan/Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/sanmotraudayan/Leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/sanmotraudayan/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/sanmotraudayan/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3731-find-missing-elements](https://github.com/sanmotraudayan/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sanmotraudayan/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sanmotraudayan/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/sanmotraudayan/Leetcode/tree/master/0229-majority-element-ii) |
+| [3731-find-missing-elements](https://github.com/sanmotraudayan/Leetcode/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
 | ------- |
